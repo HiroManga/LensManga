@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convention</title>
+</head>
+<body>
+    <h1>Lens Manga</h1>
+    <nav>
+        <ul>
+            <li>Acceuil</li>
+            <li>Actualités</li>
+            <li>Invités</li>
+            <li>Cosplay</li>
+            <li>Exposants</li>
+            <li>Billetterie</li>
+        </ul>
+    </nav>
+    <img src="images/Bannière.jpg" alt="Bannière">
+    <section>
+        <h2>L'emplacement</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem eveniet nemo eum possimus eius! Aliquid exercitationem harum nisi libero ratione?</p>
+    </section>
+    <section>
+        <h2>Les dates</h2>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati tempore a inventore minus voluptate animi possimus nulla expedita veniam aut.</p>
+    </section>
+    <section>
+        <h2>Invités</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto omnis distinctio commodi suscipit consequatur perferendis quia tempora sapiente recusandae delectus!</p>
+    </section>
+    <section>
+        <h2>Activités</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit eum exercitationem officiis quibusdam labore odio molestias aliquid ea laudantium alias.</p>
+    </section>
+    <section>
+        <h2>Programme</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate aspernatur fuga accusamus iure sint omnis ut, libero tempore optio doloribus quidem similique incidunt reiciendis nemo iusto doloremque nam beatae asperiores!<p\>
+    </section>
+    <section>
+        <h2>Partenaires</h2>
+    </section>
+</body>
+</html>
