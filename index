@@ -2,12 +2,11 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="Styles/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Convention</title>
 </head>
 <body>
-    <div class="container">
     <menu>
         <h1>Lens Manga</h1>
         <ol>
@@ -19,40 +18,48 @@
             <ul>Billetterie</ul>
         </ol>
     </menu>
+    <img src="images/Banniere.jpg" class="banniere">
     <section>
+        <h2>L'emplacement</h2>
         <article>
-            <h2>L'emplacement</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem eveniet nemo eum possimus eius! Aliquid exercitationem harum nisi libero ratione?</p>
-            <img src="images/Banniere.jpg">
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati tempore a inventore minus voluptate animi possimus nulla expedita veniam aut.</p>
+            <img src="images/emplacement.jpg">
         </article>
     </section>
     <section>
+        <h2>Les dates</h2>
         <article>
             <img src="images/Banniere.jpg">
-            <h2>Les dates</h2>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati tempore a inventore minus voluptate animi possimus nulla expedita veniam aut.</p>
         </article>
     </section>
     <section>
+        <h2>Invités</h2>
         <article>
-            <h2>Invités</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto omnis distinctio commodi suscipit consequatur perferendis quia tempora sapiente recusandae delectus!</p>
             <img src="images/Banniere.jpg">
         </article>
     </section>
     <section>
         <h2>Activités</h2>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit eum exercitationem officiis quibusdam labore odio molestias aliquid ea laudantium alias.</p>
+        <article>
+            <img src="images/Banniere.jpg">
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sit eum exercitationem officiis quibusdam labore odio molestias aliquid ea laudantium alias.</p>
+        </article>
     </section>
-    <img src="images/Banniere.jpg">
     <section>
         <h2>Programme</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate aspernatur fuga accusamus iure sint omnis ut, libero tempore optio doloribus quidem similique incidunt reiciendis nemo iusto doloremque nam beatae asperiores!<p\>
+        <article>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate aspernatur fuga accusamus iure sint omnis ut, libero tempore optio doloribus quidem similique incidunt reiciendis nemo iusto doloremque nam beatae asperiores!</p>
+            <img src="images/Banniere.jpg">    
+        </article>
     </section>
-    <img src="images/Banniere.jpg">
     <section>
         <h2>Partenaires</h2>
+        <article>
+            <img src="images/Banniere.jpg"> 
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate aspernatur fuga accusamus iure sint omnis ut, libero tempore optio doloribus quidem similique incidunt reiciendis nemo iusto doloremque nam beatae asperiores!</p>
+        </article>
     </section>
-</div>
 </body>
 </html>
